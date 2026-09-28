@@ -1,0 +1,6 @@
+# Only needed for the optional PyTorch scaffolding in training/ (not used by the Flask app)
+torch
+torchaudio
+transformers
+mediapipe
+ultralytics

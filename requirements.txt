@@ -1,0 +1,10 @@
+# Runtime dependencies for the Flask app (python run.py)
+Flask>=3.0
+Flask-Cors>=4.0
+Flask-SQLAlchemy>=3.1
+Werkzeug>=3.0
+numpy>=1.26
+opencv-python-headless>=4.8
+
+# Optional: only if you switch DATABASE_URL to PostgreSQL
+# psycopg2-binary

@@ -1,0 +1,9 @@
+participant_id,presentation_id,rater_id,fluency,pronunciation,script_accuracy,eye_contact,posture,gesture_activity,overall_delivery,notes
+# Rate each dimension 0-100. Anchors below - delete these two comment lines before distributing.
+# fluency: 0=constant halting/restarts, 50=occasional hesitation, 100=smooth throughout
+# pronunciation: 0=frequently unclear, 50=mostly clear with some mispronunciations, 100=consistently clear
+# script_accuracy: 0=little resemblance to script, 50=main points covered with paraphrasing, 100=closely matches script
+# eye_contact: 0=almost never faces camera, 50=intermittent, 100=consistently faces camera
+# posture: 0=slouched/closed throughout, 50=inconsistent, 100=upright and open throughout
+# gesture_activity: 0=rigid/no movement or distractingly excessive, 50=some natural movement, 100=purposeful, well-timed gestures
+# overall_delivery: your holistic 0-100 impression, independent of the component scores above
